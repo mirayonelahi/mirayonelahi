@@ -14,8 +14,8 @@
 
 ### 📚 Langues and Frameworks
 - HTML, CSS
-- Bootstrap, React-Bootstrap, Antd
-- JavaScript, Node.js
+- Tailwind CSS, Bootstrap
+- JavaScript, Node.js , Express.js
 - React, Redux
 - Postgresql, MongoDB
 
