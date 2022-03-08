@@ -23,7 +23,7 @@
 - Version Control(Git)
 - Docker
 
-<img src="https://github-readme-stats.vercel.app/api?username=mirayonelahi&count_private=true&&show_icons=true&count_private=true" alt="Ayon's's github stats" //width="50%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirayonelahi&theme=dark" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mirayonelahi&count_private=true&&show_icons=true&count_private=true" alt="Ayon's's github stats" width="50%" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=mirayonelahi&theme=dark" width="50%" />
   
 ## 🔗 Get in touch
 - Personal site: https://mirayonelahi.me/
