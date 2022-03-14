@@ -9,7 +9,7 @@
 </p>
 
 ### About me
-- 🔭 I’m currently looking for Junior Full-stack Web Developer roles.
+- 🔭 I’m currently looking for Full-stack / Front-end Web Developer roles.
 - 👯 I’m looking to collaborate on Node/React based projects.
 
 ### 📚 Langues and Frameworks
