@@ -14,10 +14,10 @@
 - 👯 I’m looking to collaborate on Node/React based projects.
 
 ### 📚 Langues and Frameworks
-- HTML, CSS
-- Tailwind CSS, Bootstrap
-- JavaScript, Node.js , Express.js
+- TypeScript , JavaScript
+- Node.js , Express.js
 - React, Redux
+- AWS Lambda, ECS , S3
 - Postgresql, MongoDB
 
 ### 🔧 Tool
