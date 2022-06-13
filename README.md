@@ -9,9 +9,9 @@
 </p>
 
 
-### About me
+<!-- ### About me
 - 🔭 I’m currently looking for Full-stack / Front-end Web Developer roles.
-- 👯 I’m looking to collaborate on Node/React based projects.
+- 👯 I’m looking to collaborate on Node/React based projects. -->
 
 ### 📚 Langues and Frameworks
 - TypeScript , JavaScript
